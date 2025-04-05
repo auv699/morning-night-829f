@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "morning-night-829f",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "658998f9-5fee-4848-9dd2-7129e391c121",
+      "database_name": "morning-night-829f-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
